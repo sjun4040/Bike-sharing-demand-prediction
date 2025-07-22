@@ -4,7 +4,8 @@
 <p align="center">
   <img src="./Gemini_Generated_Image_s3fm7ts3fm7ts3fm.png" width="800" heigh='auto'>
 </p>
----
+대표이미지로 사용된 사진은 AI(Gemini)를 이용해서 만들었습니다
+
 ## 데이터 출처
 Kaggle의 Bike Sharing Demand 데이터를 사용하였습니다.<br>
 [출처] https://www.kaggle.com/c/bike-sharing-demand/data
