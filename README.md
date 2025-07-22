@@ -24,7 +24,7 @@ Kaggle의 Bike Sharing Demand 데이터를 사용하였습니다.<br>
 Ridge Regression, RandomForest Regressor, XGBoost 모델 사용
 
 ### 하이퍼파라미터 튜닝
-'RandomizedSearchCV'를 통해 최적 파라미터를 탐색, 최종 모델 성능 확보
+'RandomizedSearchCV'를 통해 최적 파라미터를 탐색, 최종 모델 성능 확보<br>
 결과표<br>
 | Model         | R² Score | <Br>
 | Ridge         | 0.7976   | <br>
