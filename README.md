@@ -25,12 +25,12 @@ Ridge Regression, RandomForest Regressor, XGBoost 모델 사용
 
 ### 하이퍼파라미터 튜닝
 'RandomizedSearchCV'를 통해 최적 파라미터를 탐색, 최종 모델 성능 확보<br>
-결과표<br>
+**결과표**<br>
 | Model         | R² Score | <Br>
 | Ridge         | 0.7976   | <br>
 | RandomForest  | 0.8772   |  <br>
 | XGBoost       | 0.9186   | <br>
-
+----
 Optimal Hyperparameters<br>
 **Ridge** : alpha: 9.80    <br>
 **RandomForest** : max_depth: 26<br>min_samples_leaf: 2<br>min_samples_split: 3<br>n_estimators: 319 <br>
@@ -38,7 +38,7 @@ Optimal Hyperparameters<br>
 ## 📈 최종 모델 성능 
  **최종 모델** : **XGBoost**<br>
  **교차 검증 평균 R²** : **0.919**
-
+----
 ## 사용 기술
 <p align="left"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
