@@ -21,14 +21,14 @@ Kaggle의 Bike Sharing Demand 데이터를 사용하였습니다.<br>
   **피처 스케일링** 적용
 
 ### 모델 
-Ridge Regression, RandomForest Regressor 모델 사용
+Ridge Regression, RandomForest Regressor, XGBoost 모델 사용
 
 ### 하이퍼파라미터 튜닝
 'RandomizedSearchCV'를 통해 최적 파라미터를 탐색, 최종 모델 성능 확보
 
 ## 📈 최종 모델 성능 
- **최종 모델** : **RandomForest Regressor**
- **교차 검증 평균 R²** : **0.877**
+ **최종 모델** : **XGBoost**
+ **교차 검증 평균 R²** : **0.916**
 
 ## 사용 기술
 <p align="left">
