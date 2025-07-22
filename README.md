@@ -1,4 +1,4 @@
-![프로젝트 대표 이미지](./ghibli-bike-art.png)
+![프로젝트 대표 이미지](./Gemini_Generated_Image_s3fm7ts3fm7ts3fm.png)
 
 # 🚲 자전거 대여량 예측 모델 개발 프로젝트
 자전거 대여량 데이터를 이용하여 대여 수요를 예측하는 모델을 개발하는 프로젝트 입니다.
