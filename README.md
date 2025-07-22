@@ -23,6 +23,19 @@ Kaggle의 Bike Sharing Demand 데이터를 사용하였습니다.<br>
 ### 모델 
 Ridge Regression, RandomForest Regressor, XGBoost 모델 사용
 
+### 모델별 학습 데이터
+Ridge 회귀모델 <br>
+피처의 크기(Scale)에 민감한 선형 모델의 특성을 고려하여, <br>
+StandardScaler로 정규화된 데이터를 학습에 사용<br>
+
+RandomForest 모델 <br>
+피처 스케일링에 영향을 받지 않는 트리 기반 모델의 특성에 따라, <br>
+원-핫 인코딩만 완료된 비정규화 데이터를 학습에 사용했습니다<br>
+
+XGBoost 모델<br>
+RandomForest와 동일하게 스케일링은 적용하지 않았으며,<br>
+라이브러리 호환성 확보를 위해 열 이름의 특수 문자를 제거한 데이터를 학습에 사용했습니다<br>
+
 ### 하이퍼파라미터 튜닝
 'RandomizedSearchCV'를 통해 최적 파라미터를 탐색, 최종 모델 성능 확보<br>
 **결과표**<br>
