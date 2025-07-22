@@ -28,11 +28,13 @@ Ridge Regression, RandomForest Regressor, XGBoost 모델 사용
 
 ## 📈 최종 모델 성능 
  **최종 모델** : **XGBoost**
- **교차 검증 평균 R²** : **0.916**
+ **교차 검증 평균 R²** : **0.919**
 
 ## 사용 기술
-<p align="left">
+<p align="left"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https.img.shields.io/badge/Ridge_Regression-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/RandomForest-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-006B3E?style=for-the-badge&logo=python&logoColor=white" />
 </p>
