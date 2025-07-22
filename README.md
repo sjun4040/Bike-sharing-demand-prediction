@@ -32,9 +32,9 @@ Ridge Regression, RandomForest Regressor, XGBoost 모델 사용
 | XGBoost       | 0.9186   | <br>
 
 Optimal Hyperparameters<br>
-Ridge : alpha: 9.80    <br>
-RandomForest : max_depth: 26<br>min_samples_leaf: 2<br>min_samples_split: 3<br>n_estimators: 319 <br>
-XGBoost : colsample_bytree: 0.63<br>learning_rate: 0.12<br>max_depth: 3<br>n_estimators: 866<br>subsample: 0.92
+**Ridge** : alpha: 9.80    <br>
+**RandomForest** : max_depth: 26<br>min_samples_leaf: 2<br>min_samples_split: 3<br>n_estimators: 319 <br>
+**XGBoost** : colsample_bytree: 0.63<br>learning_rate: 0.12<br>max_depth: 3<br>n_estimators: 866<br>subsample: 0.92
 ## 📈 최종 모델 성능 
  **최종 모델** : **XGBoost**
  **교차 검증 평균 R²** : **0.919**
