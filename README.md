@@ -26,3 +26,13 @@ Ridge Regression, RandomForest Regressor 모델 사용
 ### 하이퍼파라미터 튜닝
 'RandomizedSearchCV'를 통해 최적 파라미터를 탐색, 최종 모델 성능 확보
 
+## 📈 최종 모델 성능 
+ **최종 모델** : **RandomForest Regressor**
+ **교차 검증 평균 R²** : **0.877**
+
+## 사용 기술
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/RandomForest-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
